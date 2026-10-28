@@ -1,0 +1,8 @@
+{
+  "name": "loop-graph-reference",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-strip-types --test src/runtime.test.ts"
+  }
+}
